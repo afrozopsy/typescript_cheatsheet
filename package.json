@@ -1,0 +1,13 @@
+{
+  "name": "00000_learn_ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tsc",
+    "start": "nodemon bin"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

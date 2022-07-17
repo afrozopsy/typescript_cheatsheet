@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "watch": "tsc",
+    "watch": "tsc --watch",
     "start": "nodemon bin"
   },
   "keywords": [],
